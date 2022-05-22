@@ -1,2 +1,3 @@
-# dalmaji_recommended_system
-Construct recommended Algorithm in Dalmaji Platforms.
+# Dalmaji-recommended-system
+Integrated subscription service recommendation app platform using custom subscription service recommendation algorithms by collecting user behavior data.
+
